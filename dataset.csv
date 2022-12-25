@@ -1,0 +1,31 @@
+﻿paper;Year;Sampling frequency (Hz);Aquisition time;Number of patients;Conditions;Time interval
+siam2021ppg;2021;50;6s x 50;35;rest, wrist;NA
+kavsaouglu2014novel;2014;2000;15 cycles x 2;30;"Finger PPG; in relaxation";NA
+xiao2019low;2019;500;NA;23;"Finger PPG; in relaxation";NA
+lee2015photoplethysmography;2015;NA;NA;10;Finger PPG;NA
+yao2007pilot;2007;300;70s x 3;3;"Finger PPG; in relaxation";NA
+gu2003photoplethysmographic;2003;1000;1min x 1;17;Finger PPG, in relaxation;NA
+sidek2018study;2018;NA;1min x1 ;10;NA;NA
+salanke2013enhancement;2013;37;30s x2;8;"At rest for 1; with motion artifact for 2";NA
+horng2018personal;2018;5;90 cycle x 2;50;Finger PPG, in relaxation;NA
+azam2018photoplethysmogram;2018;360;15s x 1;36;Finger PPG, in relaxation;NA
+khan2020patternanalaysis;2020;200;30min x 1;20;Finger PPG, in relaxation;NA
+chakraborty2016photoplethysmogram;2016;1000;3min x 1;15;Finger PPG, in relaxation;NA
+bonissi2013preliminary;2013;75;2min x 1;44;Finger PPG, in relaxation;NA
+Gu2003novel;2003;1000;1min x1 ;17;Finger PPG, in relaxation;NA
+farago2019correlation;2019;10;NA;5;NA;NA
+salanke2013enhancement;2013;37;60s x 4 x 2;9;Relax & stress;NA
+BIDMC;2018;125;8min x 1;53;Finger in intensive care;NA
+Capnobase IEEE TBME;2013;300;8min x 1;42;NA;NA
+VITAL DB;2016;500;NA;6388;Intra operative (30min-10h);NA
+MIMIC II;2008;125;60s x1 ;56;Finger in intensive care;NA
+TROIKA;2014;125;5min x 1;12;Efforts on treadmill;NA
+Biosec 1;2011;100;3min x 2;15;"Finger PPG; in relaxation";14 days
+Biosec 2;2020;100;1,5min x 3;100;"Finger PPG; in relaxation";few seconds
+VORTAL;2014;500;10min x 2;130;"1st session in bed; second session in exercice";few seconds
+DEAP ;2012;512;1min x  40;32;record signal while watching different emotional videos;few seconds
+MIT-BIH Polysomnographic Database;2000;250;NA;18;Night at hospital (2-7hours);NA
+Sancho2018Biometric-Nonin;2018;75;60s x 1 x 3;24;NA;7 days
+Sancho2018Biometric-Berry;2018;100;60s x 1 x 3;24;NA;7 days
+OpenSignal PPG Dataset;2011;NA;NA;14;"Finger PPG; in relaxation";NA
+PulseID;2018;200;1min x 5;43;"Finger PPG;in relaxation";few seconds
